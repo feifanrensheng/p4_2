@@ -1,0 +1,3 @@
+/home/zn/shicha/build/CMakeFiles/edit_cache.dir
+/home/zn/shicha/build/CMakeFiles/rebuild_cache.dir
+/home/zn/shicha/build/CMakeFiles/disparity.dir
